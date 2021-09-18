@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K-Singla
-- 👀 I’m interested in ...web development
+- 👀 I’m interested in ...web development and app development.
 - 🌱 I’m currently pursuing btech IT
 - 💞️ I’m looking forward to collaborate on any project
 - 📫 How to reach me 0209ksingla@gmail.com
